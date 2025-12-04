@@ -1,4 +1,3 @@
-# dalei
 <div align="center">
 
 <img src="https://github.com/sporteveryday/sporteveryday/blob/main/assets/banner.png?raw=true" alt="banner" width="100%"/>
