@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/sporteveryday/sporteveryday/blob/main/assets/banner.png?raw=true" alt="banner" width="100%"/>
+<img src="https://github.com/sporteveryday/sporteveryday/blob/main/assets/banner.jpg?raw=true" alt="banner" width="100%"/>
 
 # Hi, 我是 Dalei 👋
 
